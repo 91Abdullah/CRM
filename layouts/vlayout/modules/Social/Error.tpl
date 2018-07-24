@@ -1,0 +1,6 @@
+
+{strip}
+
+Error!
+
+{/strip}

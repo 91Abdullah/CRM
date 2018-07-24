@@ -1,0 +1,17 @@
+cache
+test
+logs
+user_privileges
+tabdata.php
+parent_tabdata.php
+config.inc.php
+include/database/PearDatabase.php
+maestrano/var/*
+maestrano.json
+migrate.php
+install.php
+languages
+modules/EventManagement/
+modules/EventTicket/
+.git-version
+app_setup.php
